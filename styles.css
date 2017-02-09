@@ -1,3 +1,54 @@
-body{
-	background: blue
+#Clinton {
+	padding: 150px;
+	border: dotted;
+
+
 }
+
+#Obama {
+	padding: 150px;
+	border: dotted;
+
+}
+
+#women {
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+}
+h2 {
+     margin-right: 550px;
+    margin-left: 550px;
+     font-family: "Georgia", serif;
+}
+
+h4 {
+	text-align: center;
+}
+
+table {
+	background-image: url(file:///C:/Sites/devbootcamp/Women-In-Politics/american-flag.jpg);
+	color: white;
+}
+
+.subparagraph {
+	background-color: lightblue;
+	font-weight: bold;
+}
+a:link {
+	color: pink;
+}
+
+a:hover {
+	color: yellow;
+}
+
+a:visited {
+	color: green;
+}
+@media only screen and (max-width: 500px) {
+    body {
+        background-color: blue;
+    }
