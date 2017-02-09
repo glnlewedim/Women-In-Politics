@@ -48,7 +48,7 @@ a:hover {
 a:visited {
 	color: green;
 }
-@media only screen and (max-width: 500px) {
-    body {
-        background-color: blue;
-    }
+@media screen and (max-width: 500px) {
+  img {
+  width: 70%;
+  }
